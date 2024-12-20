@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "413788721994",
+    "project_id": "burclar-bozki-fire",
+    "storage_bucket": "burclar-bozki-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413788721994:android:2f52577080f4b20c44e7b3",
+        "android_client_info": {
+          "package_name": "com.bozki.burclar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413788721994-suef4oj2s5pegkpj2l5n6r0sqojp75t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVpUVE_dQem8bFuOyfXtnjRJ8bubkat0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413788721994-suef4oj2s5pegkpj2l5n6r0sqojp75t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413788721994:android:cb6c27ad15ab126544e7b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413788721994-suef4oj2s5pegkpj2l5n6r0sqojp75t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVpUVE_dQem8bFuOyfXtnjRJ8bubkat0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413788721994-suef4oj2s5pegkpj2l5n6r0sqojp75t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
